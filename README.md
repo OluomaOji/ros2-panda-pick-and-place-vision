@@ -112,12 +112,6 @@ The robot will automatically detect objects and perform pick-and-place actions b
 
 ---
 
-## 📌 Notes & Attribution
-
-This project was developed following a structured ROS 2 manipulation masterclass. The system was implemented independently, with debugging, configuration, and extensions performed to gain a deep understanding of each component.
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
